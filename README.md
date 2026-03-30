@@ -1,5 +1,5 @@
 # VIT SignAssist – Real-Time Indian Sign Language Translator  
-**Prince | VIT Bhopal | November 2025**
+**SIDDHARTH TALEKAR | VIT Bhopal | March 2026**
 
 ### Project Title
 Real-Time Indian Sign Language Communication Assistant for Hearing-Impaired Students
