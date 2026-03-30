@@ -1,5 +1,5 @@
 # VIT SignAssist – Real-Time Indian Sign Language Communication Assistant  
-**statement.md** | Prince | VIT Bhopal | November 2025
+**statement.md** | SIDDHARTH TALEKAR| VIT Bhopal | March 2026
 
 ### Problem Statement  
 Hearing-impaired and deaf students at VIT often face difficulty in everyday communication when they need to share basic personal information such as their **name, age, address, native address, home location**, or simply greet someone with **hello, how are you, keep smiling**.  
